@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "City Weather",
+    "version": "1.0.0",
+    "description": "Una extensión para consultar el clima",
+    
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "clima.png"
+        }
+    }
+}
